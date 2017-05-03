@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Language
+
+  Created by lawrence on 17/4/26.
+  Copyright © 2017年 李辉. All rights reserved.
+*/
+"changeEn" = "切换到英文";
+"changeCn" = "切换到中文";
+"chinese" = "中文";
+"english" = "英文";
